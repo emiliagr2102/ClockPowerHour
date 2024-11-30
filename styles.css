@@ -14,7 +14,7 @@ body {
 }
 
 #time {
-    font-size: 10px; /* Tamaño de fuente para el reloj */
+    font-size: 14px; /* Tamaño de fuente para el reloj */
     font-weight: bold;
     color: #1a73e8;
     margin-bottom: 15px;
@@ -40,5 +40,5 @@ body {
     padding: 5px 15px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
+    max-width: 200px;
 }
