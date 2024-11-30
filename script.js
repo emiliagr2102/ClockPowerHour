@@ -92,7 +92,7 @@ function updateClock() {
 
     // Actualiza la razón para agradecer según el día
     const day = now.getDay();
-    document.getElementById('gratitude').textContent = "Hoy agradece por: " + gratitudes[day % gratitudes.length];
+    document.getElementById('gratitude').textContent = "Hoy agradece: " + gratitudes[day % gratitudes.length];
 }
 
 // Actualiza cada segundo
