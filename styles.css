@@ -1,35 +1,44 @@
+/* Estilos básicos */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Poppins', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(to right, #6a11cb, #2575fc);
-    color: white;
+    background-color: #ffffff;
+    color: #333333;
     text-align: center;
+    padding: 20px;
 }
 
 #time {
     font-size: 4rem;
     font-weight: bold;
+    color: #1a73e8;
+    margin-bottom: 20px;
 }
 
 #date {
     font-size: 1.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    color: #555555;
 }
 
 #quote {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-style: italic;
     margin: 20px;
+    color: #444444;
 }
 
 #gratitude {
-    font-size: 1.25rem;
-    background: rgba(255, 255, 255, 0.2);
+    font-size: 1.2rem;
+    background-color: #f0f4f8;
+    color: #1a73e8;
     padding: 10px 20px;
     border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
 }
