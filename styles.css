@@ -14,27 +14,27 @@ body {
 }
 
 #time {
-    font-size: 14px; /* Tamaño de fuente para el reloj */
+    font-size: 20px; /* Tamaño de fuente para el reloj */
     font-weight: bold;
     color: #bda287;
     margin-bottom: 5px;
 }
 
 #date {
-    font-size: 8px; /* Tamaño de fuente para la fecha */
+    font-size: 14px; /* Tamaño de fuente para la fecha */
     margin-bottom: 10px;
     color: #bda287;
 }
 
 #quote {
-    font-size: 8px; /* Tamaño de fuente para la frase */
+    font-size: 14px; /* Tamaño de fuente para la frase */
     font-style: italic;
     margin: 10px;
     color: #bda287;
 }
 
 #gratitude {
-    font-size: 6px; /* Tamaño de fuente para la razón de agradecer */
+    font-size: 12px; /* Tamaño de fuente para la razón de agradecer */
     background-color: #f0f4f8;
     color: #bda287;
     padding: 5px 5px;
