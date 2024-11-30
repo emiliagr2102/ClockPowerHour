@@ -10,14 +10,14 @@ body {
     background-color: #ffffff; /* Fondo blanco */
     color: #333333;
     text-align: center;
-    padding: 15px;
+    padding: 5px;
 }
 
 #time {
     font-size: 14px; /* Tamaño de fuente para el reloj */
     font-weight: bold;
     color: #1a73e8;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 #date {
@@ -29,7 +29,7 @@ body {
 #quote {
     font-size: 8px; /* Tamaño de fuente para la frase */
     font-style: italic;
-    margin: 15px;
+    margin: 10px;
     color: #444444;
 }
 
@@ -37,7 +37,7 @@ body {
     font-size: 6px; /* Tamaño de fuente para la razón de agradecer */
     background-color: #f0f4f8;
     color: #1a73e8;
-    padding: 5px 15px;
+    padding: 5px 5px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     max-width: 200px;
